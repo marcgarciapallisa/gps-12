@@ -22,6 +22,5 @@ def main():
     else:
         print("opció no reconegudda")
 
-	ddasodj
 if __name__ == '__main__':
     main()
